@@ -1,5 +1,8 @@
 #clock {
-  color: red;
-  font-size: 60px;
+  color: white;
+  font-size: 100px;
   text-align: center;
+  width: 1000px;
+  height: 1000px;
+  margin: 0 auto;
 }
